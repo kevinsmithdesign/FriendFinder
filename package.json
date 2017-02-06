@@ -1,0 +1,19 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friend finding app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkevinsmithdesign/FriendFinder.git"
+  },
+  "author": "Kevin Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrkevinsmithdesign/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/mrkevinsmithdesign/FriendFinder#readme"
+}
